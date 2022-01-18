@@ -42,5 +42,5 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravikumardhotre&show_icons=true&locale=en&layout=compact" alt="ravikumardhotre" width="400" height="400"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravikumardhotre&show_icons=true&locale=en&layout=compact" alt="ravikumardhotre" width="500" height="500"/></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ravikumardhotre&show_icons=true&locale=en" alt="ravikumardhotre"width="400" height="400" /></p>
