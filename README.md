@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Ravikumar</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
-<img align="right" width="500"  src="https://devpunch.com/img/Dev-At-Work-Gif.jpg">
+<img align="right" width="400"  src="https://devpunch.com/img/Dev-At-Work-Gif.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravikumardhotre&label=Profile%20views&color=0e75b6&style=flat" alt="ravikumardhotre" /> </p>
 
 - 🔭 I’m currently working on To Build Portfolio
@@ -44,3 +44,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravikumardhotre&show_icons=true&locale=en&layout=compact" alt="ravikumardhotre" width="400" height="400"/></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ravikumardhotre&show_icons=true&locale=en" alt="ravikumardhotre"width="400" height="400" /></p>
+<h2>Check out my latest projects!<img align="center" src="https://static.wixstatic.com/media/379e53_7cf1d2114a794b4aa8badf14b86f24a8~mv2.gif" alt="ravikumardhotre" width="200" height="200"/></h2>
