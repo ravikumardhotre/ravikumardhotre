@@ -1,11 +1,11 @@
-![MasterHead](https://miro.medium.com/max/3200/1*i8-u-V8LTTbQwTeUwLI_BQ.gif)
+![MasterHead](https://miro.medium.com/max/3200/1*i8-u-V8LTTbQwTeUwLI_BQ.gif )
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F78437&lines=Hello+there!;Welcome+to+my+profile.....)](https://git.io/typing-svg)
 
 <h1 align="center">Hi <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"   
 Width="40" height="40" >, I'm Ravikumar <img src="https://camo.githubusercontent.com/15e3210e72e50f62f0e00f1d9a7a8d6af11e0c299abef5203dd6337f50f90d51/68747470733a2f2f6d656469612e74656e6f722e636f6d2f696d616765732f32616466653934653639313339663365323236323362363164333735613761372f74656e6f722e676966 "width="40" height="50"</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
-<img align="right" width="400"  src="https://devpunch.com/img/Dev-At-Work-Gif.jpg">
+<img align="right" width="350"  src="https://devpunch.com/img/Dev-At-Work-Gif.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravikumardhotre&label=Profile%20views&color=0e75b6&style=flat" alt="ravikumardhotre" /> </p>
 
 - 🔭 I’m currently working on [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23256621&lines=true&lines=Portfolio;Blogging+app;E-commerce+website;Url+shortner)](https://git.io/typing-svg)
