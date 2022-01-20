@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/max/3200/1*i8-u-V8LTTbQwTeUwLI_BQ.gif )
+![MasterHead](https://www.fullstacktechnology.com/wp-content/uploads/2020/11/web_developing_2.gif)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F78437&lines=Hello+there!;Welcome+to+my+profile.....)](https://git.io/typing-svg)
 
