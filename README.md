@@ -16,7 +16,7 @@ Width="40" height="40" >, I'm Ravikumar <img src="https://camo.githubusercontent
 
 - 👨‍💻 All of my projects are available at [https://github.com/ravikumardhotre](https://github.com/ravikumardhotre)
 
-- 📝 I am write articles on [https://www.linkedin.com/pulse/240-hours-coding-functionup-ravikumar-dhotre/](https://www.linkedin.com/pulse/240-hours-coding-functionup-ravikumar-dhotre/)
+- 📝 I am write articles on [https://bit.ly/33vIb6Y)
 
 - 💬 Ask me about JavaScript , Node.js ,MongoDB ,Express.js ,Html, Css
 
