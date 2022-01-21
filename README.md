@@ -6,12 +6,11 @@
 
 <h1 align="center">Hi <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"   
 Width="40" height="40" >, I'm Ravikumar <img src="https://camo.githubusercontent.com/15e3210e72e50f62f0e00f1d9a7a8d6af11e0c299abef5203dd6337f50f90d51/68747470733a2f2f6d656469612e74656e6f722e636f6d2f696d616765732f32616466653934653639313339663365323236323362363164333735613761372f74656e6f722e676966 "width="40" height="50"</h1>
-<h3 align="center">A passionate Backend developer from India <img align="right" width="300"  src="https://devpunch.com/img/Dev-At-Work-Gif.jpg"></h3>
+<h3 align="center">A passionate Backend developer from India <img align="right" width="200"  src="https://devpunch.com/img/Dev-At-Work-Gif.jpg"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravikumardhotre&label=Profile%20views&color=0e75b6&style=flat" alt="ravikumardhotre" /> </p>
 
-- 🔭 I’m currently working on
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23256621&lines=true&lines=Portfolio;Blogging+app;E-commerce+website;Url+shortner)](https://git.io/typing-svg)
+- 🔭 I’m currently working on [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23256621&lines=true&lines=Portfolio;Blogging+app;E-commerce+website;Url+shortner )](https://git.io/typing-svg)
 
 - 🌱 I’m currently learning node.js, Ds And Algo
 
@@ -49,4 +48,4 @@ Width="40" height="40" >, I'm Ravikumar <img src="https://camo.githubusercontent
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravikumardhotre&show_icons=true&locale=en&layout=compact" alt="ravikumardhotre" width="400" height="400"/></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ravikumardhotre&show_icons=true&locale=en" alt="ravikumardhotre"width="400" height="400" /></p>
-<h2>Check out my latest projects!<img align="center" src="https://static.wixstatic.com/media/379e53_7cf1d2114a794b4aa8badf14b86f24a8~mv2.gif" alt="ravikumardhotre" width="200" height="200"/></h2>
+<h2>Check out my latest projects! 👨‍💻 <img align="center" src="https://static.wixstatic.com/media/379e53_7cf1d2114a794b4aa8badf14b86f24a8~mv2.gif" alt="ravikumardhotre" width="200" height="200"/></h2>
